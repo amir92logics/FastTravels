@@ -73,5 +73,9 @@
     "css-loader": "^6.2.0",
     "sass": "^1.38.0",
     "style-loader": "^3.2.1"
-  }
+  },
+  "engines": {
+    "node": "8.1.x",
+    "npm": "5.0.x"
+  },
 }
