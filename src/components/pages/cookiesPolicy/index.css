@@ -1,0 +1,58 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .message.global.cookie {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 3;
+  }
+  
+  .message.global.noscript,
+  .message.global.cookie {
+    margin: 0 0 10px;
+    padding: 10px 20px;
+    display: block;
+    line-height: 1.2em;
+    font-size: 1rem;
+    text-align: justify;
+    background: #ffee9c;
+    border-color: #d6ca8e;
+    color: #0a5a79;
+    margin: 0;
+    text-decoration: none;
+  }
+  
+  .message.global p {
+    margin: 0;
+  }
+  
+  .message.global.noscript a,
+  .message.global.cookie a {
+    color: #0a5a79;
+    text-decoration: none;
+  }
+  
+  .message.global.cookie .actions {
+    margin-top: 10px;
+  }
+  
+  .action.primary {
+    background: #00c9dc;
+    color: white;
+    font-size: 0.818rem;
+    font-weight: bold;
+    border-color: transparent;
+    height: 3em;
+    border-radius: 1.3rem;
+    float: left;
+    width: 30%;
+  }
+  
+  .action.primary:hover {
+    background: #0a5a79;
+  }
+  

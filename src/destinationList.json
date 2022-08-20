@@ -1,0 +1,146 @@
+[
+    {
+        "arivalCity": "New York",
+        "destinationCode": "JFK"
+    },
+    {
+        "arivalCity": "Newark",
+        "destinationCode": "EWR"
+    },
+    {
+        "arivalCity": "Kotoka International Airport",
+        "destinationCode": "ACC"
+    },
+    {
+        "arivalCity": "O'Hare International Airport",
+        "destinationCode": "ORD"
+    },
+    {
+        "arivalCity": "Los Angeles International Airport",
+        "destinationCode": "LAX"
+    },
+    {
+        "arivalCity": "Orlando International Airport",
+        "destinationCode": "MCO"
+    },
+    {
+        "arivalCity": "McCarran International Airport",
+        "destinationCode": "LAS"
+    },
+    {
+        "arivalCity": "Nnamdi Azikiwe International Airport",
+        "destinationCode": "ABV"
+    },
+    {
+        "arivalCity": "Hartsfield–Jackson Atlanta International Airport",
+        "destinationCode": "ATL"
+    },
+    {
+        "arivalCity": "Baltimore–Washington International Airport",
+        "destinationCode": "BWI"
+    },
+    {
+        "arivalCity": "Suvarnabhumi Airport",
+        "destinationCode": "BKK"
+    },
+    {
+        "arivalCity": "Banjul International Airport",
+        "destinationCode": "BJL"
+    },
+    {
+        "arivalCity": "Logan International Airport",
+        "destinationCode": "BOS"
+    },
+    {
+        "arivalCity": "Cape Town International Airport",
+        "destinationCode": "CPT"
+    },
+    {
+        "arivalCity": "Mactan–Cebu International Airport",
+        "destinationCode": "CEB"
+    },
+    {
+        "arivalCity": "Dubai International Airport",
+        "destinationCode": "DXB"
+    },
+    {
+        "arivalCity": "Entebbe International Airport",
+        "destinationCode": "EBB"
+    },
+    {
+        "arivalCity": "Guangzhou Baiyun International Airport",
+        "destinationCode": "CAN"
+    },
+    {
+        "arivalCity": "Sangster International Airport",
+        "destinationCode": "MBJ"
+    },
+    {
+        "arivalCity": "Robert Gabriel Mugabe International Airport",
+        "destinationCode": "HRE"
+    },
+    {
+        "arivalCity": "Piarco International Airport",
+        "destinationCode": "POS"
+    },
+    {
+        "arivalCity": "Houston - George Bus Intercontinental",
+        "destinationCode": "IAH"
+    },
+    {
+        "arivalCity": "O. R. Tambo International Airport",
+        "destinationCode": "JNB"
+    },
+    {
+        "arivalCity": "Kingston/Norman Rogers Airport",
+        "destinationCode": "KIN"
+    },
+    {
+        "arivalCity": "Murtala Muhammed International Airport",
+        "destinationCode": "LOS"
+    },
+    {
+        "arivalCity": "Ninoy Aquino International Airport",
+        "destinationCode": "MNL"
+    },
+    {
+        "arivalCity": "Melbourne Airport",
+        "destinationCode": "MEL"
+    },
+    {
+        "arivalCity": "Miami International Airport",
+        "destinationCode": "MIA"
+    },
+    {
+        "arivalCity": "Jomo Kenyatta International Airport",
+        "destinationCode": "NBO"
+    },
+    {
+        "arivalCity": "Philadelphia International Airport",
+        "destinationCode": "PHL"
+    },
+    {
+        "arivalCity": "Sydney Airport",
+        "destinationCode": "SYD"
+    },
+    {
+        "arivalCity": "Grantley Adams International Airport",
+        "destinationCode": "BGI"
+    },
+    {
+        "arivalCity": " Melville Hall Airport",
+        "destinationCode": "DOM"
+    },
+    {
+        "arivalCity": "Punta Cana International Airport",
+        "destinationCode": "PUJ"
+    },
+    {
+        "arivalCity": "Maurice Bishop International Airport",
+        "destinationCode": "GND"
+    },
+    {
+        "arivalCity": "Akanu Ibiam International Airport, Enugu",
+        "destinationCode": "ANU"
+    }
+]

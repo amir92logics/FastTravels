@@ -1,0 +1,194 @@
+[
+    {
+        "AirlineCode": "AA",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/american-airlines-logo.png"
+    },
+    {
+        "AirlineCode": "WY",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Oman_Air_logo.svg_.png"
+    },
+    {
+        "AirlineCode": "WF",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/westjet.png"
+    },
+    {
+        "AirlineCode": "WB",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/RwandAir_Logotype.png"
+    },
+    {
+        "AirlineCode": "VS",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Virgin_Atlantic_logo.svg_.png"
+    },  {
+        "AirlineCode": "VN",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Vietnam_airlines.png"
+    },
+    {
+        "AirlineCode": "VA",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Virgin_Australia_logo.svg_.png"
+    },
+    {
+        "AirlineCode": "UA",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/United-Airlines.png"
+    },
+    {
+        "AirlineCode": "EC",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/EasyJet_logo.png"
+    },
+    {
+        "AirlineCode": "TS",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Air_Transat_logo_logotype.png"
+    },
+    {
+        "AirlineCode": "TP",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/TAP_Portugal_Logo.png"
+    },
+    {
+        "AirlineCode": "TG",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Thai_Airways_logo_logotype_emblem_1.png"
+    },
+    {
+        "AirlineCode": "TK",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/turkish-airlines.png"
+    },
+    {
+        "AirlineCode": "SV",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/saudi-arabian-airlines-logo.png"
+    },
+    {
+        "AirlineCode": "SQ",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Singapore_Airlines_Logo.svg_.png"
+    },
+    {
+        "AirlineCode": "SN",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Brussels-Airline.png"
+    },
+    {
+        "AirlineCode": "SA",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/South_African_Airways.png"
+    },
+    {
+        "AirlineCode": "QR",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Qatar_Airways_Logo.png"
+    },
+    {
+        "AirlineCode": "QF",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Qantas_Airways_Limited_logo.svg_.png"
+    },
+    {
+        "AirlineCode": "PK",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/pakistan-international-airlines-logo.png"
+    },
+    {
+        "AirlineCode": "PC",
+        "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png"
+    },
+    {
+        "AirlineCode": "NZ",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/pegasus-airlines.png"
+    },
+    {
+        "AirlineCode": "MT",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/thomas_cook.png"
+    },
+    {
+        "AirlineCode": "MS",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Egypt_Air.svg_.png"
+    },
+    {
+        "AirlineCode": "MH",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Malaysia-Airlines-Logo-and-wordmark.png"
+    },
+    {
+        "AirlineCode": "LX",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/swiss.png"
+    },
+    {
+        "AirlineCode": "LH",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/lufthansa.png"
+    },
+    {
+        "AirlineCode": "KQ",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/kenyaairways.png"
+    },
+    {
+        "AirlineCode": "KL",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/KLM-logo.png"
+    },
+    {
+        "AirlineCode": "GF",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Gulf_Air_Logo.png"
+    },
+    {
+        "AirlineCode": "FI",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Icelandair_logo.png"
+    },
+    {
+        "AirlineCode": "EY",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/etihad-logo.png"
+    },
+    {
+        "AirlineCode": "ET",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Ethiopian_Airlines.png"
+    },
+    {
+        "AirlineCode": "EK",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Emirates_logo.svg_.png"
+    },
+    {
+        "AirlineCode": "SU",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Aerlinguslogo.svg_.png"
+    },
+    {
+        "AirlineCode": "DL",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Delta_logo.svg_.png"
+    },
+    {
+        "AirlineCode": "CZ",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/China-Southern-Airlines-logo.png"
+    },
+    {
+        "AirlineCode": "CX",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/cathay-pacific-logo.png"
+    },
+    {
+        "AirlineCode": "CA",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Air_China_Logo-1.png"
+    },
+    {
+        "AirlineCode": "BI",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/royal-brunei.png"
+    },
+    {
+        "AirlineCode": "BA",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/British_Airways_logo.png"
+    },
+    {
+        "AirlineCode": "AZ",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Alitalia_logo.png"
+    },
+    {
+        "AirlineCode": "AT",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/RAM_logo.png"
+    },
+    {
+        "AirlineCode": "AI",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/airindia.png"
+    },
+    {
+        "AirlineCode": "AF",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Air-France-Logo.png"
+    },
+    {
+        "AirlineCode": "AC",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/air-canada-logo.png"
+    },
+    {
+        "AirlineCode": "MU*",
+        "airlineLogo": "https://e7.pngegg.com/pngimages/570/298/png-clipart-china-eastern-airlines-logo-china-estern-airlines-brand-bangkok-thailand-text-trademark.png"
+    },
+    {
+        "AirlineCode": "9W",
+        "airlineLogo": "https://www.alexatravel.co.uk/wp-content/uploads/2018/09/Jet_Airways_Logo.svg_.png"
+    }
+
+]
